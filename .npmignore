@@ -1,0 +1,32 @@
+# Source files
+src/
+examples/
+
+# Configuration files
+tsconfig.json
+rollup.config.js
+jest.config.js
+.eslintrc.js
+
+# Documentation (optional - you can remove these lines if you want to include them)
+PUBLISHING.md
+PACKAGE-SUMMARY.md
+demo.js
+
+# Development files
+node_modules/
+.git/
+.github/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test files
+**/*.test.*
+**/*.spec.*
+__tests__/
+coverage/
+
+# Build artifacts
+*.tsbuildinfo
